@@ -1,0 +1,7 @@
+/src/test/
+/.idea/
+/pom.xml
+/src/main/java/org/example/ExampleClass1.java
+/src/main/java/org/example/package1/Package1Class1.java
+src/main/java/org/example/package1/innerPackage/InnerpackageClass1.java
+
