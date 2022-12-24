@@ -8,6 +8,7 @@ public class ExampleClass2 {
             System.out.println("Example package Class 2 While loop");
             i++;
         }
+        System.out.println();
     }
 }
 
